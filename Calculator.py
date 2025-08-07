@@ -38,3 +38,5 @@ if st.button("convert"):
         else:
             st.error("target currency not found")
         
+
+st.write("Thanking for visting my website ")
